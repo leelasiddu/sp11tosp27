@@ -6,6 +6,7 @@
 	<groupId>com.roncoo.education</groupId>
 	<artifactId>spring-boot-demo-16-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
 	<name>spring-boot-demo-16-1</name>
 	<description>Demo project for Spring Boot</description>
@@ -71,5 +72,4 @@
 	</build>
 
 
-	<packaging>war</packaging>
 </project>
